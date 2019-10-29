@@ -1,0 +1,19 @@
+{
+  "name": "capsule-cli",
+  "version": "0.1.0",
+  "description": "A command line utility for Capsule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/actengage/capsule-cli.git"
+  },
+  "author": "Justin Kimbrell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/actengage/capsule-cli/issues"
+  },
+  "homepage": "https://github.com/actengage/capsule-cli#readme"
+}
